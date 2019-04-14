@@ -96,7 +96,8 @@ ShowFileOperationsDetails       # HideFileOperationsDetails
 HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
 HideTaskView                    # ShowTaskView
 # ShowSmallTaskbarIcons           # ShowLargeTaskbarIcons
-# SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        SetTaskbarCombineAlways
+# SetTaskbarCombineWhenFull       # SetTaskbarCombineNever
+SetTaskbarCombineAlways
 HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
 ShowTrayIcons                   # HideTrayIcons
 DisableSearchAppInStore         # EnableSearchAppInStore
@@ -131,11 +132,14 @@ SetExplorerThisPC               # SetExplorerQuickAccess
 # ShowThisPCOnDesktop             # HideThisPCFromDesktop
 # ShowUserFolderOnDesktop       # HideUserFolderFromDesktop
 # ShowControlPanelOnDesktop     # HideControlPanelFromDesktop
-# HideDesktopFromThisPC           ShowDesktopInThisPC
+# HideDesktopFromThisPC
+ShowDesktopInThisPC
 # HideDesktopFromExplorer       # ShowDesktopInExplorer
-# HideDocumentsFromThisPC         ShowDocumentsInThisPC
+# HideDocumentsFromThisPC
+ShowDocumentsInThisPC
 # HideDocumentsFromExplorer     # ShowDocumentsInExplorer
-# HideDownloadsFromThisPC         ShowDownloadsInThisPC
+# HideDownloadsFromThisPC
+ShowDownloadsInThisPC
 # HideDownloadsFromExplorer     # ShowDownloadsInExplorer
 HideMusicFromThisPC             # ShowMusicInThisPC
 # HideMusicFromExplorer         # ShowMusicInExplorer
@@ -155,7 +159,8 @@ DisableThumbsDBOnNetwork        # EnableThumbsDBOnNetwork
 ### Application Tweaks ###
 DisableOneDrive                 # EnableOneDrive
 UninstallOneDrive               # InstallOneDrive
-# UninstallMsftBloat              InstallMsftBloat
+# UninstallMsftBloat
+InstallMsftBloat
 UninstallThirdPartyBloat        # InstallThirdPartyBloat
 # UninstallWindowsStore         # InstallWindowsStore
 DisableXboxFeatures             # EnableXboxFeatures
