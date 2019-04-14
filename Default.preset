@@ -96,7 +96,7 @@ ShowFileOperationsDetails       # HideFileOperationsDetails
 HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
 HideTaskView                    # ShowTaskView
 # ShowSmallTaskbarIcons           # ShowLargeTaskbarIcons
-SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
+# SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        SetTaskbarCombineAlways
 HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
 ShowTrayIcons                   # HideTrayIcons
 DisableSearchAppInStore         # EnableSearchAppInStore
@@ -155,7 +155,7 @@ DisableThumbsDBOnNetwork        # EnableThumbsDBOnNetwork
 ### Application Tweaks ###
 DisableOneDrive                 # EnableOneDrive
 UninstallOneDrive               # InstallOneDrive
-UninstallMsftBloat              # InstallMsftBloat
+# UninstallMsftBloat              InstallMsftBloat
 UninstallThirdPartyBloat        # InstallThirdPartyBloat
 # UninstallWindowsStore         # InstallWindowsStore
 DisableXboxFeatures             # EnableXboxFeatures
